@@ -1,0 +1,32 @@
+Welcome to Cloud Shell! Type "help" to get started.
+Your Cloud Platform project in this session is set to supple-serenity-437205-d2.
+Use “gcloud config set project [PROJECT_ID]” to change to a different project.
+ranggaarya169@cloudshell:~ (supple-serenity-437205-d2)$ touch latihan4.sh
+ranggaarya169@cloudshell:~ (supple-serenity-437205-d2)$ echo #!/bin/bash
+
+echo “Script untuk menerima input, penjumlahan dan perkalian”
+echo “======================================================”
+
+echo “11 :”
+
+read x
+
+echo “06 :”
+read y
+
+jmlh=`expr tx + ty`
+
+kali=`expr tx \* ty`
+
+echo “Hasil penjumlahan tx + ty = tjmlh”
+echo “Hasil perkalian tx * ty = tkali"
+
+“Script untuk menerima input, penjumlahan dan perkalian”
+“======================================================”
+“11 :”
++
+“06 :”
+
+expr: non-integer argument
+expr: non-integer argument
+“Hasil penjumlahan tx + ty = tjmlh”
