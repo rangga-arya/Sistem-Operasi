@@ -1,0 +1,9 @@
+Welcome to Cloud Shell! Type "help" to get started.
+Your Cloud Platform project in this session is set to supple-serenity-437205-d2.
+Use “gcloud config set project [PROJECT_ID]” to change to a different project.
+ranggaarya169@cloudshell:~ (supple-serenity-437205-d2)$ touch latihan2.sh
+ranggaarya169@cloudshell:~ (supple-serenity-437205-d2)$ echo
+
+ranggaarya169@cloudshell:~ (supple-serenity-437205-d2)$ echo #!/bin/bash Nama="Rangga sparrow" NIM=2402070 saya_login_sebgai_siapa='who' echo "Nama="Rangga sparrow":" tNama echo "NIM=2402070:" tNIM echo "saya_login_sebagai_siapa='who':" tsaya_login_sebagai_siapa
+
+ranggaarya169@cloudshell:~ (supple-serenity-437205-d2)$ read tNIM
